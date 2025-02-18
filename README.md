@@ -1,7 +1,7 @@
 # Materials for People Need a Few Seconds to Be Random
 This repository contains data and materials for People Need a Few Seconds to Be Random. 
 
-The project is by Lucas Castillo, please contact me at [lucas.castillo-marti@warwick.ac.uk](mailto:lucas.castillo-marti@warwick.ac.uk) or [castillo.lucas@protonmail.com](mailto:castillo.lucas@protonmail.com).
+The project is maintained by Lucas Castillo, please contact me at [lucas.castillo-marti@warwick.ac.uk](mailto:lucas.castillo-marti@warwick.ac.uk) or [castillo.lucas@protonmail.com](mailto:castillo.lucas@protonmail.com).
 
 ## Running the code
 ### Getting Started
