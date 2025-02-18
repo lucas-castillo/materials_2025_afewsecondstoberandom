@@ -1,0 +1,5 @@
+Variable list
+
+dual SDS_score	combined pair score from social desirability scale
+Metrics from the composite sequence (artificial merging of solo responses) (prefix comp), that follow output order detailed in Towse and Neil  (1998)
+Metrics from the paired or collaborative sequence (prefix coll), that follow output order detailed in Towse and Neil  (1998)

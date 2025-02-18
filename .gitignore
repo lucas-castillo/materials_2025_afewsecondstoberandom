@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+*.RData
+*.rds
+!data/plot_data/*
+.Ruserdata
+output/ratio-measures/**/**.csv
+plots/temp/
+temp/
+*.tar.gz

@@ -1,0 +1,14 @@
+Variable list
+
+pno	Participant number
+gender	Male (1) or female (2)
+pori	Task order (paired or individual sequence first)
+fors	Fast or slow first in the individual sequence
+Half	which half of paired sequence used for analysis
+sdscore	Score on the social desirability scale questionnaire
+
+Metrics from the fast response condition (prefix f), that follow output detailed in Towse and Neil  (1998)
+Metrics from the slow response condition (prefix s), as above
+Metrics from the individual contributions to the paired sequence (prefix i), as above
+Metrics from the paired output (prefix h), as above
+solo rep - combined number of repeats in slow and fast condition combined

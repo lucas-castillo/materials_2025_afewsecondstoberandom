@@ -1,0 +1,73 @@
+
+## R --------------
+|                       |     beta|      SE|         Z|       p|bf                                            |
+|:----------------------|--------:|-------:|---------:|-------:|:---------------------------------------------|
+|(Intercept)            | -6.82801| 0.51502| -13.25772| 0.00000|extreme evidence (BF = 3.29e+20) in favour of |
+|blockorder1            |  0.21603| 0.40927|   0.52785| 0.59760|moderate evidence (BF = 1/5.58) against       |
+|condition1             | -1.01896| 0.15591|  -6.53551| 0.00000|extreme evidence (BF = 1.72e+06) in favour of |
+|blockorder1:condition1 | -0.08826| 0.15589|  -0.56616| 0.57129|strong evidence (BF = 1/14.03) against        |
+
+
+## A --------------
+|                       |     beta|      SE|         Z|       p|bf                                            |
+|:----------------------|--------:|-------:|---------:|-------:|:---------------------------------------------|
+|(Intercept)            | -1.39633| 0.08827| -15.81862| 0.00000|extreme evidence (BF = 1.09e+16) in favour of |
+|blockorder1            | -0.05196| 0.08778|  -0.59191| 0.55391|strong evidence (BF = 1/24.07) against        |
+|condition1             | -0.47465| 0.02931| -16.19303| 0.00000|extreme evidence (BF = 2.37e+13) in favour of |
+|blockorder1:condition1 |  0.00139| 0.02922|   0.04747| 0.96214|very strong evidence (BF = 1/86.97) against   |
+
+
+## TPF --------------
+|                       |     beta|      SE|        Z|       p|bf                                            |
+|:----------------------|--------:|-------:|--------:|-------:|:---------------------------------------------|
+|(Intercept)            | -0.29513| 0.05014| -5.88587| 0.00000|extreme evidence (BF = 932.84) in favour of   |
+|blockorder1            |  0.04575| 0.05014|  0.91239| 0.36156|very strong evidence (BF = 1/31.36) against   |
+|condition1             |  0.14072| 0.02312|  6.08758| 0.00000|extreme evidence (BF = 8.64e+03) in favour of |
+|blockorder1:condition1 | -0.05557| 0.02312| -2.40318| 0.01625|moderate evidence (BF = 1/5.85) against       |
+
+
+## D --------------
+|                       |     beta|      SE|         df|        t|       p|bf                                            |
+|:----------------------|--------:|-------:|----------:|--------:|-------:|:---------------------------------------------|
+|(Intercept)            | 12.00753| 0.52690|   51.98655| 22.78892| 0.00000|extreme evidence (BF = 9.22e+24) in favour of |
+|blockorder1            | -0.14774| 0.52690|   51.98655| -0.28039| 0.78029|very strong evidence (BF = 1/72.52) against   |
+|condition1             |  1.58968| 0.17396| 8324.86306|  9.13815| 0.00000|extreme evidence (BF = 2.76e+05) in favour of |
+|blockorder1:condition1 | -0.15321| 0.17396| 8324.86306| -0.88069| 0.37851|extreme evidence (BF = 1/150.71) against      |
+
+
+## RNG --------------
+|                       |     beta|      SE|       df|        t|       p|bf                                            |
+|:----------------------|--------:|-------:|--------:|--------:|-------:|:---------------------------------------------|
+|(Intercept)            |  0.12267| 0.01022| 49.64899| 12.00466| 0.00000|extreme evidence (BF = 1.52e+11) in favour of |
+|blockorder1            | -0.00909| 0.01022| 49.64899| -0.88935| 0.37811|strong evidence (BF = 1/16.20) against        |
+|condition1             | -0.05154| 0.00684| 41.62938| -7.53843| 0.00000|extreme evidence (BF = 3.43e+04) in favour of |
+|blockorder1:condition1 |  0.00776| 0.00684| 41.62938|  1.13471| 0.26299|strong evidence (BF = 1/17.71) against        |
+
+
+## SWLZ_ER --------------
+|                       |     beta|      SE|       df|        t|       p|bf                                            |
+|:----------------------|--------:|-------:|--------:|--------:|-------:|:---------------------------------------------|
+|(Intercept)            |  4.23558| 0.05801| 50.34634| 73.01653| 0.00000|extreme evidence (BF = 2.09e+81) in favour of |
+|blockorder1            |  0.02931| 0.05801| 50.34634|  0.50527| 0.61558|strong evidence (BF = 1/16.90) against        |
+|condition1             |  0.12836| 0.02556| 38.05484|  5.02240| 0.00001|extreme evidence (BF = 136.25) in favour of   |
+|blockorder1:condition1 | -0.06529| 0.02556| 38.05484| -2.55452| 0.01476|anecdotal evidence (BF = 1/2.13) against      |
+
+
+## gzip --------------
+|                       |      beta|      SE|       df|         t|       p|bf                                            |
+|:----------------------|---------:|-------:|--------:|---------:|-------:|:---------------------------------------------|
+|(Intercept)            | 150.37730| 2.01762| 47.93038|  74.53201| 0.00000|extreme evidence (BF = 2.79e+85) in favour of |
+|blockorder1            |   1.48931| 2.01762| 47.93038|   0.73815| 0.46402|very strong evidence (BF = 1/31.34) against   |
+|condition1             | -27.13642| 1.56615| 42.47273| -17.32683| 0.00000|extreme evidence (BF = 3.36e+16) in favour of |
+|blockorder1:condition1 |  -2.73019| 1.56615| 42.47273|  -1.74325| 0.08853|strong evidence (BF = 1/12.92) against        |
+
+
+## lz76 --------------
+|                       |      beta|      SE|       df|         t|       p|bf                                             |
+|:----------------------|---------:|-------:|--------:|---------:|-------:|:----------------------------------------------|
+|(Intercept)            |  70.73093| 1.13119| 47.68932|  62.52797| 0.00000|extreme evidence (BF = 1.02e+160) in favour of |
+|blockorder1            |   0.51490| 1.13119| 47.68932|   0.45519| 0.65104|very strong evidence (BF = 1/35.81) against    |
+|condition1             | -13.12282| 0.85525| 41.73258| -15.34389| 0.00000|extreme evidence (BF = 1.61e+13) in favour of  |
+|blockorder1:condition1 |  -1.98016| 0.85525| 41.73258|  -2.31531| 0.02559|moderate evidence (BF = 1/4.39) against        |
+
+

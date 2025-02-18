@@ -1,0 +1,21 @@
+﻿Variable;Explanation;Notes
+subject;Unique internal subject number;
+workerID;Unique worker ID used in experiment;
+choice;Answer in choice phase: 1=Tails,-1=Heads;This variable signifies choice content (heads or tails), not motor action (left or right button press). Missed button presses (failure to press in time) were removed.
+block;Block number ;5 blocks in total, 200 trials per block
+trial;Trial number;1000 trials in total per subject
+condition;Condition, numeric value;1=Explicit Randomness, 2=Free Choice, 3=Irregularity, 4=Mental Coin Toss, 5=Perceptual Guessing
+rt;Reaction time in ms;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
