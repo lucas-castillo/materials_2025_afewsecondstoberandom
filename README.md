@@ -32,8 +32,12 @@ Other important folders:
 
 ## Cite this project  <!--bibtex -->
 ```
-@{
-    ...
+@online{castillo2025PeopleNeedFew,
+  title = {People {{Need}} a {{Few Seconds}} to {{Be Random}}},
+  author = {Castillo, Lucas and León-Villagrá, Pablo and Falbén, Johanna K and Chater, Nick and Sanborn, Adam N},
+  date = {2025},
+  url = {https://osf.io/preprints/psyarxiv/awg9j},
+  pubstate = {prepublished}
 }
 ```
 
